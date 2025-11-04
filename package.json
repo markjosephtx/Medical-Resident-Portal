@@ -60,7 +60,6 @@
       "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "dev": "vite",
         "predeploy": "npm run build",
         "deploy": "gh-pages -d dist --repo https://github.com/markjosephtx/Medical-Resident-Portal.git",
         "lint": "eslint .",
